@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://use.typekit.net/oiy6jzy.css">
+<link rel="stylesheet" href="https://use.typekit.net/oiy6jzy.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Experience With Video Games</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/style.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+	<style type="text/css">
+	
+	
+	
+	</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  	<nav>
+	   <ul>
+		<li><a href="../index.html">Home</a></li>   
+		<li><a href="about.html">About</a></li>
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="gallery.html">Gallery</a></li>
+		<li><a href="contact.html">Contact</a></li>
+	   </ul>
+	</nav>
+  <!--Begin floated elements-->
+  <aside>
+    <h3>I am an introvert who has learned about politics and has had his empathy suffer for it.</h3>
+  </aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End floated elements-->
+  <footer><p>Content for New footer Tag Goes Here</p></footer>
+</div><!--Closes div container-->
+</body>
+</html>
